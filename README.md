@@ -3,8 +3,11 @@
 <b>Author - Vineet Dwivedi</b>
 
 <b>Features</b>
+<br/>
 -> Add / toggle / filter tasks
+<br/>
 -> Live task statistics
+<br/>
 ->Clean component separation
 
 <b>Tech Stack</b>
