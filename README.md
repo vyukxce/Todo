@@ -33,6 +33,7 @@ The project focuses on **correct state management, derived data, and component-d
 - Immutable State Updates
 - Single Source of Truth
 - Component Reusability
+- useEffect for localStorage Persistance
 
 ---
 
