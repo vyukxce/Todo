@@ -48,6 +48,7 @@ The project focuses on **correct state management, derived data, and component-d
 ## 📌 Learning Outcome
 
 This project strengthened my understanding of how React handles state, re-renders, and data flow in real-world applications also have useEffect for localStorage Persistance.
+It is not just a normal todo app, this project show the efforts and learning.
 
 ---
 
